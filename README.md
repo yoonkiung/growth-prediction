@@ -34,7 +34,9 @@ master 브랜치에 commit할때는 commit 메시지는 commit하는 내용을 �
 
 #
 version 4.11_기웅
+
 first version
+현재 각 디렉토리에 empty파일을 commit을 위해 만들어놨음(빈폴더는 commit이 안되서) 나중에 사용할때 empty파일 삭제하고 사용할것
 
 README파일 업데이트때마다 이 위에 (업데이트날짜\_이름) 형식으로 적어서 업데이트 내용을 간략하게 적기
 
