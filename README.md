@@ -1,4 +1,4 @@
-# project name : growth-prediction
+# project name : AI를 통한 골연령/예측키 측정 및 모바일로 성장 관리 
 
 
 #
